@@ -1,0 +1,16 @@
+.wrapper {
+    text-align: left;
+    margin-top: 50px;
+    height: 200px;
+    width: 400px;
+    padding: 20px;
+    border: solid 1px rgb(168, 168, 168);
+    border-radius: 10px;
+}
+
+.showTime {
+    font-size: 23px;
+    /* margin: 10px; */
+    justify-content: left;
+    margin-bottom: 10px;
+}
